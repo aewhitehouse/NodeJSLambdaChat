@@ -1,0 +1,3 @@
+[default]
+aws_access_key_id = AKIAVLPB3VZ64UX2W4SD
+aws_secret_access_key = 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
